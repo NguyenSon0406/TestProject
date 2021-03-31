@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Project6_BubbleSort-InsertionSort-SelectionSort/src"/>
+	<classpathentry kind="output" path="Project6_BubbleSort-InsertionSort-SelectionSort/bin"/>
+</classpath>
